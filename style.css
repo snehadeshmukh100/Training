@@ -1,0 +1,15 @@
+.background{
+    background-color:grey;
+}
+#myParagraph{
+    text-align:center;
+}
+div{
+    text-align:left;
+}
+
+p{
+    text-align:center;
+    font-size:30px;
+    font-weight=bold;
+}
