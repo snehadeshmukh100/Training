@@ -1,7 +1,7 @@
-class hello
+class Hello
 {
 pyblic static void main(String[] args)
 {
-System.out.println("hellooo");
+System.out.println("helloooo");
 }
 }
